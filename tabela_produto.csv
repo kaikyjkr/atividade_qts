@@ -1,0 +1,23 @@
+idProduto,NomeProduto,CodProduto,catProduto,Quant,ValorProduto,DescricaoProduto,imgProduto
+15,"Vostro Small Desktop",VSD00,Computadores,1,"3.049,00","Intel® Core™ i3-10100 (3.6 GHz até 4.3 GHz, cache de 6MB, quad-core, 10ª geração)
+laptop
+Windows 10 Home Single Language, de 64 bits - Português (Brasil)
+videocard
+Placa gráfica integrada Intel® Graphics
+memory
+Memória de 4GB (1x4GB), DDR4, 2666MHz, Expansível até 64GB (2 slots UDIMM, 1 slot livre)
+harddrive
+HD de 1TB (7200RPM) SATA 3.5"",vostro.jfif
+3,"Processador AMD Ryzen 5 3600X Cache 32MB 3.8GHz",3600X,Periféricos,10,"1.499,90","Processador AMD Ryzen 5 3600X Cache 32MB 3.8GHz",processador.jpg
+4,"Memória HyperX Fury RGB, 8GB, 3000MHz, DDR4, CL15, Preto",CL15,Periféricos,10,"344,90","Memória HyperX Fury RGB, 8GB, 3000MHz, DDR4, CL15, Preto",memoriahiperx.jpg
+5,"Console Microsoft Xbox Series S, 512GB, Branco",XBOXS,Cpus,10,"2.659,90","Console Microsoft Xbox Series S, 512GB, Branco",xboxbranco.jpg
+6,"Samsung Galaxy S21 5G, 128GB, RAM 8GB, Octa-Core",S21,Cpus,10,"5.699,05","Samsung Galaxy S21 5G, 128GB, RAM 8GB, Octa-Core",sansunggalaxy.jpg
+7,"Notebook Acer Aspire 3 AMD Ryzen 3-3250U, 8GB, 1TB",ACERA,Computadores,10,"3.099,90","Notebook Acer Aspire 3 AMD Ryzen 3-3250U, 8GB, 1TB",notebookacer.jpg
+8,"Monitor LG LED 27", 4K, UHD, IPS, HDMI/DisplayPort",LG27,Periféricos,10,"1.769,90","Monitor LG LED 27", 4K, UHD, IPS, HDMI/DisplayPort",monitorlgled27.jpg
+9,"Smart TV 65´ 4K UHD LG, 3 HDMI, 2 USB, Bluetooth",STV65,Cpus,10,"4.199,00","Smart TV 65´ 4K UHD LG, 3 HDMI, 2 USB, Bluetooth",smarttv65.jpg
+10,"Multifuncional Brother Laser, Mono, 110V - DCP-L56",DCPL5,Computadores,10,"3.299,90","Multifuncional Brother Laser, Mono, 110V - DCP-L56",multifuncional.jpg
+11,"WaterCooler Corsair Hydro Series High Performance",WCCHS,Periféricos,10,"269,90","WaterCooler Corsair Hydro Series High Performance",watercooler.jpg
+12,"Fonte Corsair CV650, 650W, 80 Plus Bronze - CP-902",CP902,Periféricos,5,"469,90","Fonte Corsair CV650, 650W, 80 Plus Bronze - CP-902",fontecorsaircv.jpg
+13,"Smartwatch Samsung Galaxy Watch Active Preto - 40mm 4GB",SMW40,Computadores,10,"899,00","Smartwatch Samsung Galaxy Watch Active Preto - 40mm 4GB",relogio.jpg
+14,"Smartphone Motorola Moto E6s 32GB Dual",E6S,Cpus,100,"1.000,00","Smartphone Motorola Moto E6s 32GB Dual Chip Android 9.0 Tela Max ",motorola.jpg
+16,"Relogio 1200 KDD",L1200,Computadores,1,"9.000,00",ydygsagyasdgydasgydasygdsa,relogio2.jpg
